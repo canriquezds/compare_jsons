@@ -18,6 +18,9 @@ python3 --version
 in the root:
 
 ```
+python3 -m venv venv
+
+
 source venv/bin/activate
 
 
